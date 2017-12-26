@@ -13,7 +13,7 @@ This library provides a `Buffer` and `Parser` class to make dealing with binary 
  * Composer
  * ext-gmp
 
-## Installation
+## Installation:
 
  You can install this library via Composer: `composer require bitwasp/buffertools` 
   
